@@ -1,4 +1,5 @@
-## Hi there 👋
+## FY IT
+
 
 <!--
 **kanishka2247/Kanishka2247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
